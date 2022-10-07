@@ -1,2 +1,2 @@
 # SHPEstock.github.io
-title: LEARN ABOUT STOCKS
+remote_theme: daattali/beautiful-jekyll@5.0.0
